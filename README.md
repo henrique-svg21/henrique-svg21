@@ -22,14 +22,10 @@
 ║  QUEST   :  Building cool things, one bit at a time  ║
 ╚══════════════════════════════════════════════════════╝
 
-🎮  Built a CHIP-8 emulator from scratch in Java
-
-⚙️  Passionate about automation, embedded systems & IoT
-
-🕹️  Love the intersection of low-level code and game dev
-
-🌐  Also exploring the world of web development <br>
-
+🎮 &nbsp;Built a **CHIP-8 emulator** from scratch in Java  
+⚙️ &nbsp;Passionate about **automation, embedded systems & IoT** 
+🕹️ &nbsp;Love the intersection of **low-level code** and **game dev** 
+🌐 &nbsp;Also exploring the world of **web development** <br>
 
 ## `> SYSTEM_SPEC.cfg`
 
