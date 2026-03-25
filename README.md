@@ -14,39 +14,27 @@
 
 ## `> ABOUT_ME.exe`
 
-```
 ╔══════════════════════════════════════════════════════╗
 ║  PLAYER  :  Henrique Schorck                         ║
 ║  CLASS   :  Student @ CentroWEG — Automação          ║
 ║  GUILD   :  WEG  |  Jaraguá do Sul, SC  🇧🇷           ║
 ║  QUEST   :  Building cool things, one bit at a time  ║
 ╚══════════════════════════════════════════════════════╝
-```
+
 
 🎮 &nbsp;Built a **CHIP-8 emulator** from scratch in Java  
-⚙️ &nbsp;Passionate about **automation, embedded systems & IoT**  
-🕹️ &nbsp;Love the intersection of **low-level code** and **game dev**  
-🌐 &nbsp;Also exploring the world of **web development**  
-
-<br>
+⚙️ &nbsp;Passionate about **automation, embedded systems & IoT** 🕹️ &nbsp;Love the intersection of **low-level code** and **game dev** 🌐 &nbsp;Also exploring the world of **web development** <br>
 
 ---
 
-## `> TECH_STACK.dat`
+## `> SYSTEM_SPEC.cfg`
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Fields of Interest**
-
-![Embedded](https://img.shields.io/badge/Embedded%20Systems-00ff9f?style=for-the-badge&logoColor=black)
-![IoT](https://img.shields.io/badge/IoT%20%26%20Automation-00e5ff?style=for-the-badge&logoColor=black)
-![Game Dev](https://img.shields.io/badge/Game%20Dev-ff6b6b?style=for-the-badge&logoColor=white)
-![Low Level](https://img.shields.io/badge/Low--Level%20Programming-ffb700?style=for-the-badge&logoColor=black)
+| COMPONENT | SPECIFICATION |
+| :--- | :--- |
+| **INSTRUCTIONS** | Java, C, C++, Python |
+| **PROTOCOLS** | IoT, Automation, Connectivity |
+| **ARCHITECTURES** | Embedded Systems, Low-Level |
+| **GFX_ENGINE** | Game Dev Enthusiast |
 
 <br>
 
@@ -73,7 +61,7 @@
 ## `> CONTRIBUTION_SNAKE.gif`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/henrique-svg21/henrique-svg21/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <img src="https://github.com/henrique-svg21/henrique-svg21/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake eating contributions" />
 </div>
 
 <br>
