@@ -72,8 +72,10 @@
 
 ## `> CONTRIBUTION_SNAKE.gif`
 
+## `> CONTRIBUTION_SNAKE.gif`
+
 <div align="center">
-  <<img src="https://github.com/henrique-svg21/henrique-svg21/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" /> alt="Snake eating contributions" />
+  <img src="https://raw.githubusercontent.com/henrique-svg21/henrique-svg21/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
 </div>
 
 <br>
