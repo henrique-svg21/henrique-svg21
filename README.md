@@ -22,52 +22,38 @@
 ║  QUEST   :  Building cool things, one bit at a time  ║
 ╚══════════════════════════════════════════════════════╝
 
-🎮 &nbsp;Built a **CHIP-8 emulator** from scratch in Java  
-⚙️ &nbsp;Passionate about **automation, embedded systems & IoT** 
-🕹️ &nbsp;Love the intersection of **low-level code** and **game dev** 
-🌐 &nbsp;Also exploring the world of **web development** <br>
+🎮  Built a CHIP-8 emulator from scratch in Java
 
-## `> SYSTEM_SPEC.cfg`
+⚙️  Passionate about automation, embedded systems & IoT
 
-| COMPONENT | SPECIFICATION |
-| :--- | :--- |
-| **INSTRUCTIONS** | Java, C, C++, Python |
-| **PROTOCOLS** | IoT, Automation, Connectivity |
-| **ARCHITECTURES** | Embedded Systems, Low-Level |
-| **GFX_ENGINE** | Game Dev Enthusiast |
+🕹️  Love the intersection of low-level code and game dev
 
-<br>
+🌐  Also exploring the world of web development
 
----
+> SYSTEM_SPEC.cfg
+COMPONENT	SPECIFICATION
+INSTRUCTIONS	Java, C, C++, Python
+PROTOCOLS	IoT, Automation, Connectivity
+ARCHITECTURES	Embedded Systems, Low-Level
+GFX_ENGINE	Game Dev Enthusiast
 
-## `> STATS.bin`
+> STATS.bin
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-svg21&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&border_radius=0" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-svg21&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00ff9f&text_color=c9d1d9&border_radius=0" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-svg21&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&border_radius=0" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-svg21&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00ff9f&text_color=c9d1d9&border_radius=0" />
 </div>
 
-<br>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=henrique-svg21&hide_border=true&background=0a0a0f&ring=00ff9f&fire=ffb700&currStreakLabel=00ff9f&sideLabels=00e5ff&sideNums=c9d1d9&dates=c9d1d9&border_radius=0" />
+</div>
+> CONTRIBUTION_SNAKE.gif
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=henrique-svg21&hide_border=true&background=0a0a0f&ring=00ff9f&fire=ffb700&currStreakLabel=00ff9f&sideLabels=00e5ff&sideNums=c9d1d9&dates=c9d1d9&border_radius=0" />
+<img src="https://github.com/henrique-svg21/henrique-svg21/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake eating contributions" />
 </div>
 
-<br>
-
----
-
-## `> CONTRIBUTION_SNAKE.gif`
-
 <div align="center">
-  <img src="https://github.com/henrique-svg21/henrique-svg21/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake eating contributions" />
-</div>
-
-<br>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d2b1e,100:0a0a0f&height=130&section=footer&text=INSERT+COIN+TO+CONTINUE&fontSize=14&fontColor=00ff9f&fontAlignY=72" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d2b1e,100:0a0a0f&height=130&section=footer&text=INSERT+COIN+TO+CONTINUE&fontSize=14&fontColor=00ff9f&fontAlignY=72" />
 </div>
