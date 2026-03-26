@@ -48,7 +48,7 @@
 ## `> STATS.bin`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-svg21&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&border_radius=0" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=henrique-svg21&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&border_radius=0" />
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-svg21&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00ff9f&text_color=c9d1d9&border_radius=0" />
 </div>
