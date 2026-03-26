@@ -13,15 +13,22 @@
 ---
 
 ## `> ABOUT_ME.exe`
-╔══════════════════════════════════════════════════════╗
-║  PLAYER  :  Henrique Schorck                         ║
-║  CLASS   :  Student @ CentroWEG — Automação          ║
-║  GUILD   :  WEG  |  Jaraguá do Sul, SC  🇧🇷           ║
-║  QUEST   :  Building cool things, one bit at a time  ║
-╚══════════════════════════════════════════════════════╝
+
+<pre>
+╔══════════════════════════════════════════════════════════════╗
+║  PLAYER   : Henrique Schorck                                 ║
+║  CLASS    : Student @ CentroWEG — Automação                  ║
+║  GUILD    : WEG | Jaraguá do Sul, SC 🇧🇷                      ║
+║  QUEST    : Building cool things, one bit at a time          ║
+╚══════════════════════════════════════════════════════════════╝
+</pre>
 
 🎮 &nbsp;Built a **CHIP-8 emulator** from scratch in Java  
-⚙️ &nbsp;Passionate about **automation, embedded systems & IoT** 🕹️ &nbsp;Love the intersection of **low-level code** and **game dev** 🌐 &nbsp;Also exploring the world of **web development** <br>
+⚙️ &nbsp;Passionate about **automation, embedded systems & IoT** 
+🕹️ &nbsp;Love the intersection of **low-level code** and **game dev** 
+🌐 &nbsp;Also exploring the world of **web development** 
+
+<br>
 
 ---
 
