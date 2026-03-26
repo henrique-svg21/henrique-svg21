@@ -23,41 +23,16 @@
 ╚══════════════════════════════════════════════════════════════╝
 </pre>
 
-| | |
-| --- | --- |
-| 🎮 Built a **CHIP-8 emulator** from scratch in Java | ⚙️ Passionate about **automation & IoT** |
-| 🕹️ Love **low-level code & game dev** | 🌐 Exploring **web development** |
-
-<br>
-
----
-
-## `> SYSTEM_SPEC.cfg`
-
-| COMPONENT | SPECIFICATION |
-| :--- | :--- |
-| **INSTRUCTIONS** | Java, C, C++, Python |
-| **PROTOCOLS** | IoT, Automation, Connectivity |
-| **ARCHITECTURES** | Embedded Systems, Low-Level |
-| **GFX_ENGINE** | Game Dev Enthusiast |
-
-<br>
-
----
-
-## `> STATS.bin`
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=henrique-svg21&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9&border_radius=0" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-svg21&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00ff9f&text_color=c9d1d9&border_radius=0" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=henrique-svg21&hide_border=true&background=0a0a0f&ring=00ff9f&fire=ffb700&currStreakLabel=00ff9f&sideLabels=00e5ff&sideNums=c9d1d9&dates=c9d1d9&border_radius=0" />
-</div>
+<table border="0">
+  <tr>
+    <td>🎮 Built a <b>CHIP-8 emulator</b> from scratch in Java</td>
+    <td>⚙️ Passionate about <b>automation & IoT</b></td>
+  </tr>
+  <tr>
+    <td>🕹️ Love <b>low-level code & game dev</b></td>
+    <td>🌐 Exploring <b>web development</b></td>
+  </tr>
+</table>
 
 <br>
 
