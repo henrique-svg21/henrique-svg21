@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=900&color=00FF9F&center=true&vCenter=true&repeat=true&width=640&height=60&lines=%3E_+LOADING+PROFILE...+OK;%3E_+STUDENT+%40+CentroWEG;%3E_+AUTOMATION+%26+CONNECTIVITY;%3E_+CHIP-8+EMULATOR+AUTHOR;%3E_+LOW-LEVEL+SYSTEMS+NERD;%3E_+INSERT+COIN+TO+CONTINUE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=900&color=00FF9F&center=true&vCenter=true&repeat=true&width=640&height=60&lines=%3E_+HELLO!+I'M+HENRIQUE...+OK;%3E_+STUDENT+%40+CentroWEG;%3E_+AUTOMATION+%26+CONNECTIVITY;%3E_+MUSIC+LOVER;%3E_+C%2B%2B+%3E+PYTHON;%3E_+LET+IT+HAPPEN" />
 </div>
 
 <br>
@@ -49,5 +49,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d2b1e,100:0a0a0f&height=130&section=footer&text=INSERT+COIN+TO+CONTINUE&fontSize=14&fontColor=00ff9f&fontAlignY=72" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d2b1e,100:0a0a0f&height=130&section=footer&text=CLICK+HERE+FOR+DETAILS&fontSize=14&fontColor=00ff9f&fontAlignY=72" />
 </div>
