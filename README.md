@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=900&color=00FF9F&center=true&vCenter=true&repeat=true&width=640&height=60&lines=%3E_+HELLO!+I'M+HENRIQUE...+OK;%3E_+STUDENT+%40+CentroWEG;%3E_+AUTOMATION+%26+CONNECTIVITY;%3E_+MUSIC+LOVER;%3E_+C%2B%2B+%3E+PYTHON;%3E_+LET+IT+HAPPEN" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=900&color=00FF9F&center=true&vCenter=true&repeat=true&width=640&height=60&lines=%3E_+HELLO!+I'M+HENRIQUE;%3E_+STUDENT+%40+CentroWEG;%3E_+AUTOMATION+%26+CONNECTIVITY;%3E_+MUSIC+LOVER;%3E_+C%2B%2B+%3E+PYTHON;%3E_+LET+IT+HAPPEN" />
 </div>
 
 <br>
